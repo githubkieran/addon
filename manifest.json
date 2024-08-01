@@ -1,6 +1,6 @@
 {
     "manifest_version": 3,
-    "name": "rq_exclude",
+    "name": "RQ Exclude",
     "version": "1.0.0",
     "description": "Excludes reddit and quora from search engine results.",
     "permissions": [
