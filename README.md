@@ -3,7 +3,7 @@
 This is a Chrome extension developed with the intent of returning search engines to a more accurate state. 
 The extension enhances your browsing experience by filtering out search results from Reddit and Quora, and with 
 a simple interface, you can easily toggle filters on and off to keep your search results clean and relevant. 
-Ideal for users who prefer less search engine bloat from internet NPCs. 
+Ideal for users who prefer less search engine bloat courtesy of internet NPCs. 
 
 Features
 - Toggle Filters: Easily enable or disable filters for Reddit and Quora.
